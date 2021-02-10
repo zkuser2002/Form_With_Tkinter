@@ -47,8 +47,4 @@ def update(id,title,author,year,isbn):
 
 
 connrct()
-
-# insert('c# ebook','sara',2001,2386)
-# print(delete(5))
-# update(1,'new book title','new author name',2020,25)
 print(view())
